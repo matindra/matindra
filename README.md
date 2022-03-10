@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matindra
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Python Data Science/AI
+- 💞️ I’m looking to collaborate on Python Data Science/ML/AI
 - 📫 How to reach me twitter.com/matindra
 
 <!---
