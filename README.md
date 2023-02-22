@@ -4,17 +4,17 @@
 
 ##### **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
+#####- 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-- 🌱 I’m currently working on **Machine Learning**
+#####- 🌱 I’m currently working on **Machine Learning**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/matindra)
+#####- 💻 Check my Projects and other Repos [HERE.](https://github.com/matindra)
 
-- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
+#####- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
 
-- ⚡ Fun fact is am **Ex-Startup owner.**
+#####- ⚡ Fun fact is am **Ex-Startup owner.**
 
-## **LANGUAGES AND TOOLS**
+##### **LANGUAGES AND TOOLS**
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
@@ -42,7 +42,7 @@
 </p>
 <br/>
 
-## **STREAK STATS**
+##### **STREAK STATS**
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
 </p>
