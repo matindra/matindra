@@ -1,6 +1,7 @@
- ##### Hey! Nice to see you.
+ ##### Hey! Nice to see you 👋
 
-  ###### <h4 align="center"> Hi, I'm Matindra </h2>
+
+###### <h4 align="center"> Hi, I'm Matindra </h2>
 
 ##### **ABOUT ME**
 
@@ -16,7 +17,6 @@
 
 ##### **LANGUAGES AND TOOLS**
 
-# Hello there 👋
 
 
 ```python
@@ -24,12 +24,12 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class DataScientist:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Matindra"
+        self.role = "Data Scientist"
+        self.language_spoken = ["hi_IN", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -37,6 +37,8 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
+```
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
