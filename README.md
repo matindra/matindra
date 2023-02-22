@@ -1,8 +1,8 @@
- ### Hey! Nice to see you.
+ ##### Hey! Nice to see you.
 
 <h2 align="center">Hi, I'm Matindra </h2>
 
-### **ABOUT ME**
+##### **ABOUT ME**
 
 - 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
 
