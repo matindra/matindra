@@ -1,18 +1,18 @@
  ##### Hey! Nice to see you.
 
-<h2 align="center">Hi, I'm Matindra </h2>
+ ##### <h2 align="center">Hi, I'm Matindra </h2>
 
 ##### **ABOUT ME**
 
-#####- 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
+##### - 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
 
-#####- 🌱 I’m currently working on **Machine Learning**
+##### - 🌱 I’m currently working on **Machine Learning**
 
-#####- 💻 Check my Projects and other Repos [HERE.](https://github.com/matindra)
+##### - 💻 Check my Projects and other Repos [HERE.](https://github.com/matindra)
 
-#####- 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
+##### - 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
 
-#####- ⚡ Fun fact is am **Ex-Startup owner.**
+##### - ⚡ Fun fact is am **Ex-Startup owner.**
 
 ##### **LANGUAGES AND TOOLS**
 
