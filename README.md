@@ -1,6 +1,6 @@
  ##### Hey! Nice to see you.
 
- ##### <h2 align="center">Hi, I'm Matindra </h2>
+  ###### <h4 align="center"> Hi, I'm Matindra </h2>
 
 ##### **ABOUT ME**
 
