@@ -16,6 +16,24 @@
 
 ##### **LANGUAGES AND TOOLS**
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Matindra"
+        self.role = "Data Scientist"
+        self.language_spoken = ["hi_IN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = DataScientist()
+me.say_hi()
+
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
