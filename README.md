@@ -15,7 +15,6 @@
 
 ###### - ⚡ Fun fact is I am **Ex-Startup owner.**
 
-##### **LANGUAGES AND TOOLS**
 
 
 
@@ -39,6 +38,8 @@ me = DataScientist()
 me.say_hi()
 
 ```
+
+##### **LANGUAGES AND TOOLS**
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
@@ -71,9 +72,13 @@ me.say_hi()
     <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
 </p>
 
-## **CONNECT WITH ME**:
+#### **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+ <a href = "https://www.twitter.com/matindra/"><img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href='https://www.twitter.com/matindra/'>
+ 
 <br>
 </a>
 
