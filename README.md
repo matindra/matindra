@@ -3,7 +3,7 @@
 
  <h4 align="center"> Hi, I'm Matindra </h2>
 
-##### **ABOUT ME**
+#### **ABOUT ME**
 
 ###### - 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
 
@@ -39,7 +39,7 @@ me.say_hi()
 
 ```
 
-##### **LANGUAGES AND TOOLS**
+#### **LANGUAGES AND TOOLS**
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
