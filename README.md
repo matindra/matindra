@@ -7,13 +7,9 @@
 #### **About Me** 🚀
 
  🔭 I’m currently working as Data Science Intern at iNeuron Intelligence Pvt. Ltd. </br>
-
  🌱 I’m currently working on *Machine Learning.* </br>
-
  💻 Check out my Projects and other Repos [HERE.](https://github.com/matindra) </br>
-
  👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate.  </br>
-
  ⚡ Fun fact is I am Ex-Startup owner. </br>
 
 
@@ -74,8 +70,6 @@ me.say_hi()
 <p align="left">
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href = "https://www.twitter.com/matindra/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href='https://www.twitter.com/matindra/'>
  
-<br>
-</a>
+ <br>
 
