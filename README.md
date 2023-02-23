@@ -3,19 +3,29 @@
 
  <h4 align="center"> Hi, I'm Matindra </h2>
 
-#### **ABOUT ME**
+Here are some ideas to get you started:
 
-###### - 🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-###### - 🌱 I’m currently working on **Machine Learning**
+#### About Me 🚀
 
-###### - 💻 Check my Projects and other Repos [HERE.](https://github.com/matindra)
+🔭 I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.** </br>
 
-###### - 👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.** 
+🌱 I’m currently working on **Machine Learning** </br>
 
-###### - ⚡ Fun fact is I am **Ex-Startup owner.**
+💻 Check my Projects and other Repos [HERE.](https://github.com/matindra) </br>
 
+👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.**  </br>
 
+⚡ Fun fact is I am **Ex-Startup owner.** </br>
 
 
 ```python
