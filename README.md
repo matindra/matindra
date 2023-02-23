@@ -1,20 +1,20 @@
- #### Hey! Nice to see you 👋
+ ##### Hey! Nice to see you 👋
 
 
- <h4 align="center"> Hi, I'm Matindra </h2>
+ <h5 align="center"> Hi, I'm Matindra </h5>
 
 
-#### About Me 🚀
+#### **About Me** 🚀
 
-🔭 <font size=”1”>I’m currently working as **Data Science Intern** at **iNeuron Intelligence Pvt. Ltd.** </font></br>
+ 🔭 I’m currently working as Data Science Intern at iNeuron Intelligence Pvt. Ltd. </br>
 
-🌱 I’m currently working on **Machine Learning** </br>
+ 🌱 I’m currently working on *Machine Learning.* </br>
 
-💻 Check my Projects and other Repos [HERE.](https://github.com/matindra) </br>
+ 💻 Check out my Projects and other Repos [HERE.](https://github.com/matindra) </br>
 
-👨‍💻 Completed **Google Data Analytics and Full Stack Data Science certificates.**  </br>
+ 👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate.  </br>
 
-⚡ Fun fact is I am **Ex-Startup owner.** </br>
+ ⚡ Fun fact is I am Ex-Startup owner. </br>
 
 
 ```python
