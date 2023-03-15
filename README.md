@@ -65,6 +65,7 @@ me.say_hi()
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
 </p>
+#### Profile Visit Count : [![](https://visitcount.itsvg.in/api?id=amanovishnu&icon=0&color=1)](https://visitcount.itsvg.in)
 
 #### **CONNECT WITH ME**:
 <p align="left">
