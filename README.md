@@ -34,7 +34,7 @@ me.say_hi()
 
 ```
 
-#### **LANGUAGES AND TOOLS**
+#### **Languages and Tools**
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) 
@@ -89,7 +89,7 @@ me.say_hi()
 
 #### **Profile Visitor Count**: [![](https://visitcount.itsvg.in/api?id=matindra&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-#### **CONNECT WITH ME**:
+#### **Connect with me**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href = "https://www.twitter.com/matindra/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
