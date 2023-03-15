@@ -81,9 +81,14 @@ me.say_hi()
 <br/>
 
 ##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matindra&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align = 'center'>
+    <img src='[https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=matindra&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)'>
+</p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=matindra&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ##### **STREAK STATS**
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
