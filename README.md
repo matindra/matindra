@@ -81,7 +81,7 @@ me.say_hi()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-##### **STREAK STATS**
+##### **Streak Stats**
 
 <p align = 'center'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
@@ -89,7 +89,7 @@ me.say_hi()
 
 #### **Profile Visitor Count**: [![](https://visitcount.itsvg.in/api?id=matindra&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-#### **Connect with me**:
+##### **Connect with me**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href = "https://www.twitter.com/matindra/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
