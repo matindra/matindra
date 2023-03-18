@@ -1,7 +1,7 @@
  <h5 align="center"> Hi, I'm Matindra. Nice to see you 👋 </h5>
 
 
-#### **About Me** 🚀
+#### **🚀 About Me:** 
 
  🔭 I’m currently working as Data Science Intern at iNeuron Intelligence Pvt. Ltd. </br>
  🌱 I’m currently working on *Machine Learning.* </br>
@@ -31,7 +31,7 @@ me.say_hi()
 
 ```
 
-#### **Languages and Tools 🛠️**
+#### **🛠️ Languages and Tools: **
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) 
@@ -78,7 +78,7 @@ me.say_hi()
 
 <br/>
 
-##### 📊 GitHub Stats:
+##### **📊 GitHub Stats:**
 
 ![](https://github-readme-stats.vercel.app/api?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=github_dark&hide_border=false)<br/>
