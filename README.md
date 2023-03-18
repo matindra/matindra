@@ -31,7 +31,7 @@ me.say_hi()
 
 ```
 
-#### **🛠️ Languages and Tools: **
+#### **🛠️ Languages and Tools:** 
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) 
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) 
