@@ -1,7 +1,4 @@
- ##### Hey! Nice to see you 👋
-
-
- <h5 align="center"> Hi, I'm Matindra </h5>
+ <h5 align="center"> Hi, I'm Matindra. Nice to see you 👋 </h5>
 
 
 #### **About Me** 🚀
