@@ -1,4 +1,5 @@
- <h4 align="center"> Hi, I'm Matindra, Machine Learning Intern from India. Nice to see you 👋 </h4>
+ <h4 align="center"> Hi, I'm Matindra, Machine Learning Intern from India. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4>
+ 
 
 
 #### **🚀 About Me:** 
@@ -78,23 +79,31 @@ me.say_hi()
 
 <br/>
 
-##### **📊 GitHub Stats:**
+📊 GitHub Stats:
+ </br>
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-##### **Streak Stats**
-
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=matindra&theme=dark&hide_border=true'>
+ 
+ ##### **Streak Stats**
+ <p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=matindra&theme=github_dark&hide_border=true'>
 </p>
+ <br/>
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
+ 
 
-##### **Connect with me**:
-<p align="left">
+ </br>
+<div align="left">
+<h5>Connect with me:</h5>
+ 
+ 
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href = "https://www.twitter.com/matindra/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <br>
  
  ![](https://komarev.com/ghpvc/?username=matindra&color=blue&style=for-the-badge)
  
