@@ -1,13 +1,36 @@
- <h4 align="center"> Hi, I'm Matindra, Machine Learning Intern from India. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h4>
+ <h3 align="left"> Hi, I'm Matindra, A Machine Learning Engineer from India. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
  
 
+Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
 
-#### **🚀 About Me:** 
+Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I realized my passion upon switching to Data analytics. Data Science has been my primary point of interest for a year now, and my zest lies in Machine Learning. I am currently working as an Associate Data Scientist at Affine.
+
+My programming, statistics & finance coursework has provided me with the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I look forward to the opportunity of being interviewed in order to share more about my experience and the skills that I could bring to any company.
+
+ **🚀 About Me:** 
+
+- 🔭 I’m currently working on Data Science & Machine Learning.
+
+- 🌱 I’m currently learning Data Science,Machine Learning, Deep Learning,  End to End projects and Databricks
+
+- 👯 I’m looking to collaborate on Projects,Tech Articles
+
+- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Deep Learning, Statistics, Mathematics
+
+- 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
+
+-  ⚡ Fun fact is I am Ex-Startup owner. </br>
+
+
 
  🔭 I’m currently working as Data Science Intern at iNeuron Intelligence Pvt. Ltd. </br>
- 🌱 I’m currently working on *Machine Learning.* </br>
+ 
+ 🌱 I’m currently working on *Data Sciencce & Machine Learning.* </br>
+ 
  💻 Check out my Projects and other Repos [HERE.](https://github.com/matindra) </br>
+ 
  👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate.  </br>
+ 
  ⚡ Fun fact is I am Ex-Startup owner. </br>
 
 
