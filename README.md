@@ -9,29 +9,20 @@ My programming, statistics & finance coursework has provided me with the analyti
 
  **🚀 About Me:** 
 
-- 🔭 I’m currently working on Data Science & Machine Learning.
+- 🔭 I’m currently working as Data Science Intern at iNeuron Intelligence. </br>
 
-- 🌱 I’m currently learning Data Science,Machine Learning, Deep Learning,  End to End projects and Databricks
+- 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing. </br>
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+- 👯 I’m looking to collaborate on Data Science related Projects. </br>
 
-- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Deep Learning, Statistics, Mathematics
+- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Deep Learning, Statistics, Mathematics. </br>
 
 - 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
 
+-  👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate. 💻 </br>
+
 -  ⚡ Fun fact is I am Ex-Startup owner. </br>
 
-
-
- 🔭 I’m currently working as Data Science Intern at iNeuron Intelligence Pvt. Ltd. </br>
- 
- 🌱 I’m currently working on *Data Sciencce & Machine Learning.* </br>
- 
- 💻 Check out my Projects and other Repos [HERE.](https://github.com/matindra) </br>
- 
- 👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate.  </br>
- 
- ⚡ Fun fact is I am Ex-Startup owner. </br>
 
 
 ```python
@@ -121,7 +112,7 @@ me.say_hi()
 
  </br>
 <div align="left">
-<h5>Connect with me:</h5>
+<h5> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h5>
  
  
 <a href = "https://www.linkedin.com/in/matindra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
