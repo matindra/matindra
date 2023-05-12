@@ -1,11 +1,18 @@
  <h3 align="left"> Hi, I'm Matindra, A Machine Learning Engineer from India. Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
  
 
-Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data Science.
+Data is the raw material of the 21st century. It can be used to solve problems, make decisions, and create new products and services.
 
-Like many others, my initial interest lay in building real-world applications, I was fascinated by building logic for simple programming problems. I am currently working as a Machine Learning at iNeuron Intelligence.
 
-My programming, statistics & finance coursework has provided me with the analytical skills I apply to diverse business scenarios. My zeal to learn, coupled with my ability to collaborate and accomplish goals makes me well-suited for a career in the field of Data Science and business analytics. I look forward to the opportunity of being interviewed in order to share more about my experience and the skills that I could bring to any company.
+I find data fascinating because it is a way to understand the world around us. Data can be used to answer questions, make predictions, and solve problems. It can also be used to create new products and services.
+
+I am also fascinated by the way that data is constantly changing. As we collect more data, we can learn more about the world and make better decisions. This is why I am so excited about the future of data science. I believe that data science has the potential to change the world for the better. 
+
+Thats how I got attracted towards data world. I am currently working as a Machine Learning at iNeuron Intelligence.
+
+I have a strong foundation in data science fundamentals, including machine learning, statistics, and data mining. I am also proficient in a variety of programming languages, including Python, R, and SQL.
+
+I am a highly motivated and results-oriented individual. I am also a team player and I am always willing to learn new things. I am eager to start my career in data science and I am confident that I can make a significant contribution to any organisation I am going to work for.
 
  **🚀 About Me:** 
 
