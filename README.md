@@ -50,7 +50,7 @@ me = DataScientist()
 me.say_hi()
 
 ```
-</h3>Projects</h3></br>
+** Projects:** 
 Here are a few projects I have worked on:</br>
 
 </h4>Project 1:</h4> Briefly describe one of your notable projects, including its purpose, technologies used, and any interesting features or challenges you encountered.</br>
