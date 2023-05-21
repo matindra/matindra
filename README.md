@@ -50,11 +50,11 @@ me = DataScientist()
 me.say_hi()
 
 ```
-</h3>Projects</h3>
-Here are a few projects I have worked on:
+</h3>Projects</h3></br>
+Here are a few projects I have worked on:</br>
 
-</h4>Project 1:</h4> Briefly describe one of your notable projects, including its purpose, technologies used, and any interesting features or challenges you encountered.
-</h4>Project 2:</h4> Provide a summary of another interesting project, highlighting its significance and the skills you utilized to complete it.
+</h4>Project 1:</h4> Briefly describe one of your notable projects, including its purpose, technologies used, and any interesting features or challenges you encountered.</br>
+</h4>Project 2:</h4> Provide a summary of another interesting project, highlighting its significance and the skills you utilized to complete it.</br>
 </h4>Project 3:</h4> Discuss another project, emphasizing the impact it had and the lessons learned during its development.
 
 #### **🛠️ Languages and Tools:** 
