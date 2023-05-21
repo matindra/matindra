@@ -12,23 +12,18 @@ I have a strong foundation in data science fundamentals, including machine learn
 
 I am a highly motivated and results-oriented individual. I am also a team player and I am always willing to learn new things. I am eager to start my career in data science and I am confident that I can make a significant contribution to any organisation I am going to work for.
 
- **🚀 About Me:** 
-
-- 🔭 I’m currently working as Data Science Intern at iNeuron Intelligence. </br>
-
-- 🌱 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision and Natural Language Processing. </br>
-
-- 👯 I’m looking to collaborate on Data Science related Projects. </br>
-
-- 💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunites, Open Source, NLP, Deep Learning, Statistics, Mathematics. </br>
-
-- 😄 Words that describe me - Self-motivated, Focused, Extreme Hardworking & curious.
-
--  👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate. 💻 </br>
-
--  ⚡ Fun fact is I am Ex-Startup owner. </br>
-
-
+  <h4>🚀 About Me:</h4>
+  <ul>
+    <li>🔭 I'm currently working as a Data Science Intern at iNeuron Intelligence.</li>
+    <li>🌱 I'm currently working on Data Science, Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing.</li>
+    <li>👯 I'm looking to collaborate on Data Science-related Projects.</li>
+    <li>💬 Talk to me about Python, Machine Learning, SQL, Freelancing Opportunities, Open Source, NLP, Deep Learning, Statistics, Mathematics.</li>
+    <li>😄 Words that describe me: Self-motivated, Focused, Extreme Hardworking & Curious.</li>
+    <li>👨‍💻 Completed iNeuron Full Stack Data Science Bootcamp Certificate.</li>
+    <li>⚡ Fun fact: I am an Ex-Startup owner.</li>
+  </ul>
+</body>
+</html>
 
 ```python
 #!/usr/bin/python
