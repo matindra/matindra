@@ -50,12 +50,36 @@ me = DataScientist()
 me.say_hi()
 
 ```
-<b> Projects: </b> </br>
-Here are a few projects I have worked on:</br>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h4>📝 Projects:</h4>
+  <ul>
+    <li>
+      <h5><a href=https://github.com/matindra/insurance-premium-prediction-project>Project 1: Insurance Premium Prediction</a></h5>
+      <p>
+        The insurance premium prediction project aims to develop a model that accurately estimates insurance premiums based on historical data. It involves analyzing factors such as policyholder information and claims history to predict future premiums, enabling insurance companies to make informed pricing decisions.
+      </p>
+    </li>
+    <li>
+      <h5><a href=https://github.com/matindra/insurance-premium-prediction-project>Project 2: US EasyVIsa Application Status Project<a></h5>
+      <p>
+        United States Office of Foreign Labor Certification (OFLC) gives job certification applications for employers seeking to bring foreign workers into the United States and grants certifications. This model is to check if Visa get approved or denied based on the given dataset. This can be used to recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the certain criteria which influences the decision.
+      </p>
+    </li>
+    <li>
+      <h5><a href=https://github.com/matindra/Student-Performance-Indicator>Project 3: Student Performance Indicator<a></h5>
+      <p>
+        The Student Performance Indicator project focuses on developing a system or metric to evaluate and measure the academic performance and progress of students. It involves analyzing various factors such as grades, attendance, test scores, and other relevant data to provide insights into student achievements and identify areas for improvement.
+      </p>
+    </li>
+  </ul>
+</body>
+</html>
 
- <h4 align="left"> Project 1: </h4> Briefly describe one of your notable projects, including its purpose, technologies used, and any interesting features or challenges you encountered.</br>
-</h4>Project 2:</h4> Provide a summary of another interesting project, highlighting its significance and the skills you utilized to complete it.</br>
-</h4>Project 3:</h4> Discuss another project, emphasizing the impact it had and the lessons learned during its development.
 
 #### **🛠️ Languages and Tools:** 
 
@@ -134,4 +158,3 @@ Here are a few projects I have worked on:</br>
  ![](https://komarev.com/ghpvc/?username=matindra&color=blue&style=for-the-badge)
  
  <br>
-
