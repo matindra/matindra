@@ -4,9 +4,7 @@ Data is the raw material of the 21st century. It can be used to solve problems, 
 
 I find data fascinating because it is a way to understand the world around us. Data can be used to answer questions, make predictions, and solve problems. It can also be used to create new products and services.
 
-I am also fascinated by the way that data is constantly changing. As we collect more data, we can learn more about the world and make better decisions. This is why I am so excited about the future of data science. I believe that data science has the potential to change the world for the better. 
-
-Thats how I got attracted towards data world. I am currently working as a Machine Learning Intern at iNeuron Intelligence.
+I am also fascinated by the way that data is constantly changing. As we collect more data, we can learn more about the world and make better decisions. This is why I am so excited about the future of data science. I believe that data science has the potential to change the world for the better. Thats how I got attracted towards data world. I am currently working as a Machine Learning Intern at iNeuron Intelligence.
 
 I have a strong foundation in data science fundamentals, including machine learning, statistics, and data mining. I am also proficient in a variety of programming languages, including Python, R, and SQL.
 
