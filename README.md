@@ -69,6 +69,14 @@ me.say_hi()
         The Student Performance Indicator project focuses on developing a system or metric to evaluate and measure the academic performance and progress of students. It involves analyzing various factors such as grades, attendance, test scores, and other relevant data to provide insights into student achievements and identify areas for improvement.
       </p>
     </li>
+<!–– # Project Block start ––>       
+       <li>
+      <h5><a href=https://github.com/matindra/Adult-Income-Prediction>Project 4: Adult Income Prediction<a></h5>
+      <p>
+        The main objective of the dataset is to classify people earning <=50k or >50k based on several explanatory factors affecting the income of a person like Age, Occupation, Education, etc.
+      </p>
+    </li>
+  <!–– # Project Block end ––>
   </ul>
 </body>
 </html>
