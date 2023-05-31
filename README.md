@@ -134,7 +134,7 @@ me.say_hi()
  </br>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel-sigma-five.app/api?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
  
  ##### **Streak Stats**
  <p align = 'center'>
@@ -142,7 +142,7 @@ me.say_hi()
 </p>
  <br/>
  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matindra&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
  
