@@ -6,9 +6,9 @@ I find data fascinating because it is a way to understand the world around us. D
 
 I am also fascinated by the way that data is constantly changing. As we collect more data, we can learn more about the world and make better decisions. This is why I am so excited about the future of data science. I believe that data science has the potential to change the world for the better. Thats how I got attracted towards data world. I am currently working as a Machine Learning Intern at iNeuron Intelligence.
 
-I have a strong foundation in data science fundamentals, including machine learning, statistics, and data mining. I am also proficient in a variety of programming languages, including Python, R, and SQL.
+I have a strong foundation in data science fundamentals, including machine learning, statistics, and data mining. I am also proficient in programming languages, Like Python and SQL. Apart from the skills related to data capture, analysis & presentation, I possess good problem solving skills.
 
-I am a highly motivated and results-oriented individual. I am also a team player and I am always willing to learn new things. I am eager to start my career in data science and I am confident that I can make a significant contribution to any organisation I am going to work for.
+I am a highly motivated and results-oriented individual and I am also a team player. I am eager to start my career in data science and I am confident that I can make a significant contribution to any organisation I am going to work for. Along with Machine learning, I believe in Quick learning as and when needed.
 
   <h4>🚀 About Me:</h4>
   <ul>
