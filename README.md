@@ -58,7 +58,7 @@ me.say_hi()
       </p>
     </li>
     <li>
-      <h5><a href=https://github.com/matindra/insurance-premium-prediction-project>Project 2: US EasyVIsa Application Status Project<a></h5>
+      <h5><a href=https://github.com/matindra/US-EasyVisa-application-status-data>Project 2: US EasyVIsa Application Status Project<a></h5>
       <p>
         United States Office of Foreign Labor Certification (OFLC) gives job certification applications for employers seeking to bring foreign workers into the United States and grants certifications. This model is to check if Visa get approved or denied based on the given dataset. This can be used to recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the certain criteria which influences the decision.
       </p>
