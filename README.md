@@ -62,28 +62,29 @@ me.say_hi()
       <p>
         United States Office of Foreign Labor Certification (OFLC) gives job certification applications for employers seeking to bring foreign workers into the United States and grants certifications. This model is to check if Visa get approved or denied based on the given dataset. This can be used to recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the certain criteria which influences the decision.
       </p>
+    </li> 
+     <!–– # Project Block start ––> 
+       <li>
+      <h5><a href=https://github.com/matindra/Airline-Passenger-Satisfaction>Project 3: Airline Passenger Satisfaction<a></h5>
+      <p>
+        This project focuses on developing a predictive model that can accurately assess and forecast passenger satisfaction levels. By integrating machine learning algorithms with airline data, the project aims to provide airlines with valuable insights to make informed decisions and improve their services to meet and exceed customer expectations.
+      </p>
     </li>
+       <!–– # Project Block start ––>   
     <li>
-      <h5><a href=https://github.com/matindra/Student-Performance-Indicator>Project 3: Student Performance Indicator<a></h5>
+      <h5><a href=https://github.com/matindra/Student-Performance-Indicator>Project 4: Student Performance Indicator<a></h5>
       <p>
         The Student Performance Indicator project focuses on developing a system or metric to evaluate and measure the academic performance and progress of students. It involves analyzing various factors such as grades, attendance, test scores, and other relevant data to provide insights into student achievements and identify areas for improvement.
       </p>
     </li>
 <!–– # Project Block start ––>       
        <li>
-      <h5><a href=https://github.com/matindra/Adult-Income-Prediction>Project 4: Adult Income Prediction<a></h5>
+      <h5><a href=https://github.com/matindra/Adult-Income-Prediction>Project 5: Adult Income Prediction<a></h5>
       <p>
         The main objective of the dataset is to classify people earning <=50k or >50k based on several explanatory factors affecting the income of a person like Age, Occupation, Education, etc.
       </p>
     </li>
   <!–– # Project Block end ––>
-               <li>
-      <h5><a href=https://github.com/matindra/Airline-Passenger-Satisfaction>Project 5: Airline Passenger Satisfaction<a></h5>
-      <p>
-        This project focuses on developing a predictive model that can accurately assess and forecast passenger satisfaction levels. By integrating machine learning algorithms with airline data, the project aims to provide airlines with valuable insights to make informed decisions and improve their services to meet and exceed customer expectations.
-      </p>
-    </li>
-   <!–– # Project Block end ––>
   </ul>
 </body>
 </html>
