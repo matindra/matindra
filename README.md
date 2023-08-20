@@ -65,7 +65,7 @@ me.say_hi()
     </li> 
      <!–– # Project Block start ––> 
        <li>
-      <h5><a href=https://github.com/matindra/Airline-Passenger-Satisfaction>Project 3: Airline Passenger Satisfaction<a></h5>
+      <h5><a href=https://github.com/matindra/Airline-Passenger-Satisfaction>Project 3: Airline Passenger Satisfaction Prediction<a></h5>
       <p>
         This project focuses on developing a predictive model that can accurately assess and forecast passenger satisfaction levels. By integrating machine learning algorithms with airline data, the project aims to provide airlines with valuable insights to make informed decisions and improve their services to meet and exceed customer expectations.
       </p>
